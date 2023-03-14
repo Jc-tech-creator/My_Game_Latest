@@ -1,6 +1,7 @@
 # My_Game_Latest
 You can see the application here:
 https://6nyeya8km3.us-east-1.awsapprunner.com
+
 Game search and recommendation(Spring Boot &amp; React)
 Developed a full-stack web application for users to search streams, videos and clips from twitch and get recommendations
 Built the backend with Spring Boot, handled HTTP requests and responses by creating Java servlets with RESTful APIs
